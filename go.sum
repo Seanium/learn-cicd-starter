@@ -1,3 +1,5 @@
+github.com/bootdotdev/learn-cicd-starter v0.0.0-20231019231250-adf875e59278 h1:SPzMycXS+VR3pjqT1LtgKpFWx/+U9c/BAnEOJSou1k4=
+github.com/bootdotdev/learn-cicd-starter v0.0.0-20231019231250-adf875e59278/go.mod h1:vu654nd0mXnBaEN8EtkcXMvUdhT46HuogrDTNwPdeK8=
 github.com/go-chi/chi v1.5.4 h1:QHdzF2szwjqVV4wmByUnTcsbIg7UGaQ0tPF2t5GcAIs=
 github.com/go-chi/chi v1.5.4/go.mod h1:uaf8YgoFazUOkPBG7fxPftUylNumIev9awIWOENIuEg=
 github.com/go-chi/cors v1.2.1 h1:xEC8UT3Rlp2QuWNEr4Fs/c2EAGVKBwy/1vHx3bppil4=

@@ -1,3 +1,5 @@
+# github.com/bootdotdev/learn-cicd-starter v0.0.0-20231019231250-adf875e59278
+## explicit; go 1.20
 # github.com/go-chi/chi v1.5.4
 ## explicit; go 1.16
 github.com/go-chi/chi
