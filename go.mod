@@ -9,7 +9,4 @@ require (
 	github.com/joho/godotenv v1.5.1
 )
 
-require (
-	github.com/bootdotdev/learn-cicd-starter v0.0.0-20231019231250-adf875e59278
-	github.com/go-sql-driver/mysql v1.7.1
-)
+require github.com/go-sql-driver/mysql v1.7.1
