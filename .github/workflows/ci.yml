@@ -34,5 +34,11 @@ jobs:
         with:
           go-version: '1.20'
 
-      - name: Check code style
+      - name: Check code fmt
         run: test -z $(go fmt ./...); echo $?
+
+      - name: Install staticcheck
+        run: go install honnef.co/go/tools/cmd/staticcheck@latest
+
+      - name: Run staticcheck
+        run: staticcheck ./...
